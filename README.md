@@ -24,7 +24,7 @@ The following is a list of inputs that the team is responsible for estimating or
 
 |**Input**|**Source**|**Analysis group**|
 |:------|:-----|:-----|
-|**Demand (fixed & flexible)**|Tesla, EQ|RazorShell.Optim.inputs.Base!0_WY-EQ!40|
+|**Demand (fixed & flexible)**|Tesla, EQ|RazorShell.Optim.inputs.Base!0_WY-EQ!41|
 |<ul><li>Residential & commercial</li></ul>|||
 |<ul><li>Industrial</li></ul>|||
 |<ul><li>Transport</li></ul>|||
@@ -43,6 +43,7 @@ The following is a list of inputs that the team is responsible for estimating or
 |<ul><li>Renewables</li></ul>|||
 |<ul><ul><li>Capacity</li></ul></ul>|Mix of third parties and in-house assumptions|RazorShell.Capacity.inputs.Base_WY-EQ|
 |<ul><ul><li>Load factors</li></ul></ul>|Mix of third parties and in-house assumptions|RazorShell.LoadFactors.inputs.Base_WY-EQ|
+|<ul><ul><li>Generation</li></ul></ul>|Mix of third parties and in-house assumptions|RazorShell.Optim.inputs.Base!0_WY-EQ!41|
 |<ul><ul><li>Price response</li></ul></ul>|In-house assumptions||
 |**Commodities & other**|||
 |<ul><li>Fuel prices</li></ul>|Markets, Aligne, KYOS|RazorShell.Optim.inputs.Base!0.FuelPrice|
