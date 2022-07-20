@@ -24,7 +24,7 @@ The following is a list of inputs that the team is responsible for estimating or
 
 |**Input**|**Source**|**Analysis group**|
 |:------|:-----|:-----|
-|**Demand (fixed & flexible)**|Tesla, EQ|RazorShell.Optim.inputs.Base!0_WY-EQ!41|
+|**Demand (fixed & flexible)**|Third parties, In-house|RazorShell.Optim.inputs.Base!0_WY-EQ!41|
 |<ul><li>Residential & commercial</li></ul>|||
 |<ul><li>Industrial</li></ul>|||
 |<ul><li>Transport</li></ul>|||
