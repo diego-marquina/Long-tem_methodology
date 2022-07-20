@@ -32,7 +32,7 @@ The following is a list of inputs that the team is responsible for estimating or
 |**Supply (unit-level)**|||
 |<ul><li>Price responsive (eg CCGTs, coal, peakers, batteries, etc.)</li></ul>|||
 |<ul><ul><li>Capacity</li></ul></ul>|EPSI for existing assets, then Shell's assumptions for the longer-term||
-|<ul><ul><li>Availability</li></ul></ul>|REMIT for existing assets, then Shell's assumptions for the longer-term|W:\Power\RazorShell\Availability for short-term French nukes. [Long-term assumptions in curve 10676](https://marketdatadashboard.azurewebsites.net/curveAdmin/curveBuilderManager/10676)|
+|<ul><ul><li>Availability</li></ul></ul>|REMIT for existing assets, then Shell's assumptions for the longer-term|<ul><li>W:\Power\RazorShell\Availability for short-term French nukes</li><li>[Long-term assumptions in curve 10676](https://marketdatadashboard.azurewebsites.net/curveAdmin/curveBuilderManager/10676)</li></ul>|
 |<ul><ul><li>Efficiency</li></ul></ul>|EPSI for existing assets, then Shell's assumptions for the longer-term||
 |<ul><ul><li>Constraints(eg start-up costs, ramp rates, min up/down times, max cycles)</li></ul></ul>|EPSI & Shell|RazorShell.Optim.inputs.Base!0.FuelPrice for start-up costs|
 |<ul><ul><li>CHP/must run</li></ul></ul>|EPSI & Shell||
